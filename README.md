@@ -1,7 +1,3 @@
-Based on the GitHub page for the project **"The-Hungry-Crab"** which primarily contains files related to **Unity** and **C\#**, here is a suggested README.md:
-
------
-
 ## The-Hungry-Crab
 
 A simple 2D game project built using the **Unity** game engine.
@@ -50,3 +46,4 @@ This project was developed by:
 Feel free to [submit issues](https://github.com/LokeshPatnaik1999/The-Hungry-Crab/issues) or [pull requests](https://github.com/LokeshPatnaik1999/The-Hungry-Crab/pulls) if you have suggestions or bug fixes.
 
 -----
+
