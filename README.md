@@ -4,14 +4,14 @@ A simple 2D game project built using the **Unity** game engine.
 
 ### Project Description
 
-This repository contains the source code, assets, and project files for a game titled "The-Hungry-Crab." The game is developed using the Unity platform, with the majority of the logic written in **C\#** (as indicated by the [project's language breakdown](https://www.google.com/search?q=https://github.com/LokeshPatnaik1999/The-Hungry-Crab%2391)). It likely involves game mechanics related to a crab character.
+This repository contains the source code, assets, and project files for a game titled "The-Hungry-Crab." The game is developed using the Unity platform, with the majority of the logic written in **C#**. It likely involves game mechanics related to a crab character.
 
-*(**Note to Developer:** Please update this section with a more detailed explanation of the game's objective, characters, and core gameplay mechanics.)*
+
 
 ### Technologies Used
 
   * **Game Engine:** Unity
-  * **Primary Language:** C\# (98.6% of the codebase)
+  * **Primary Language:** C# (98.6% of the codebase)
   * **IDE/Environment:** Visual Studio (indicated by the `.vs/` and `.vscode` folders)
 
 ### Getting Started
@@ -41,9 +41,9 @@ To run and build this project locally, you will need the Unity Game Engine insta
 This project was developed by:
 
   * **[Lokesh Kumar Patnaik](https://github.com/LokeshPatnaik1999)** (Primary Developer)
-  * **[Lokesh](https://github.com/Lokesh0628)** (Contributor)
 
 Feel free to [submit issues](https://github.com/LokeshPatnaik1999/The-Hungry-Crab/issues) or [pull requests](https://github.com/LokeshPatnaik1999/The-Hungry-Crab/pulls) if you have suggestions or bug fixes.
 
 -----
+
 
